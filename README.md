@@ -12,10 +12,10 @@ Aprender a utilizar Git y GitHub para organizar archivos, registrar modificacion
 
 ## 3. Integrantes
 
-1. Integrante 1: [anahi vinanzaca]
-2. Integrante 2: [carla narvaez]
-3. Integrante 3: [joseph villamar]
-4. Integrante 4: [danna jimenez]
+1. Integrante 1: [Anahi vinanzaca]
+2. Integrante 2: [Carla narvaez]
+3. Integrante 3: [Joseph villamar]
+4. Integrante 4: [Danna jimenez]
 
 ## 4. Herramientas utilizadas
 
