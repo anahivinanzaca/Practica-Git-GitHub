@@ -3,6 +3,6 @@ INTEGRANTES DEL PROYECTO
 1. carla narvaez merchan
 2. joseph villamar solorzano 
 3. anahi vinanzaca lopez
-4. danna jimenez 
+4. danna jimenez montiel
 Tema: Control de versiones con Git y GitHub.
 Todos los integrantes participan en el desarrollo del proyecto. 
