@@ -5,3 +5,4 @@ INTEGRANTES DEL PROYECTO
 3. anahi vinanzaca lopez
 4. danna jimenez 
 Tema: Control de versiones con Git y GitHub.
+Todos los integrantes participan en el desarrollo del proyecto. 
